@@ -1,0 +1,115 @@
+.cuadrado{
+    width: 1282px;
+    height: 73px;
+    background-color: #000000;
+    border: solid;
+    background-attachment: fixed;
+    }
+
+.titulo {
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: left;
+    color: #ffffff;
+    padding: 7px 530px 7px 529px;
+    margin: 0;
+}
+.bigiguana {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 727px;
+  width: 1286px;
+  display: block;
+
+}
+.cuadrado1 {
+  width: 1281px;
+  height: 348px;
+  background-color: #000000;
+  border: solid;
+  background-attachment: fixed;
+}
+
+.titulo1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  color: #ffffff;
+  text-align: left;
+  font-weight: lighter;
+  padding-top: 76px;
+  padding-left: 150px;
+  padding-right: 655px;
+  padding-bottom: 75px;
+
+
+}
+
+.iguana-1 {
+  padding-left: 106px;
+  padding-right: 150px;
+  border-top-width: 45px;
+  float: right;
+  padding-top: 45px;
+  padding-bottom: 66px;
+
+}
+footer{
+width: 1284px;
+height: 102px;
+background: #1E1A13 0% 0% no-repeat padding-box;
+opacity: 0.94;
+}
+footer p {
+font-family: 'Raleway', sans-serif;
+text-align: left;
+font-size: 20px;
+font-weight: lighter;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+padding-top: 39px;
+padding-bottom: 39px;
+padding-left: 299px;
+padding-right: 299px;
+}
+
+.cuadrado2 {
+background: #1E1A13 0% 0% no-repeat padding-box;
+opacity: 0.98;
+width: 1282px;
+height: 348px;
+border: solid;
+background-attachment: fixed;
+}
+
+.titulo2 {
+  font-family: 'Raleway', sans-serif;
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: 400;
+  text-align:left;
+  padding-top: 75px;
+  padding-bottom: 266px;
+  padding-left: 463px;
+  padding-right: 460px;
+  height: 47px;
+  width: 356px;
+  }
+.tercerojo {
+  font-family: 'Raleway', sans-serif;
+  color: #ffffff;
+  text-align: left;
+  font-size: 24px;
+  font-weight: lighter;
+
+}
+ .listas li {
+  display:inline;
+  font-size: 25px;
+  font-weight: lighter;
+  text-align: center;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+}
